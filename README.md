@@ -1,4 +1,4 @@
-# ht-api
+# Rest API Boilerplate
 
 ## Setup
 
